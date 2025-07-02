@@ -2,7 +2,9 @@
 
 This application helps you efficiently manage your GitHub following list. It identifies users who are **not following you back**, including those who may have unfollowed you. This streamlines the process, eliminating the need for tedious manual navigation on GitHub.
 
-https://github-follower-check.netlify.app/
+## 🌐 Live Demo
+
+**[View Live Application](https://github-follower-check.netlify.app/)**
 
 ## ✨ Features
 
